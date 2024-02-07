@@ -7,6 +7,9 @@
 - Arrays
     * One-dimensional
     * Two-dimensional
+- Vector 
+    * One-dimensional
+    * Two-dimensional
 - Stacks
     * Array-based stack
     * List-based stack
@@ -14,10 +17,10 @@
     * Array-based queue
     * List-based queue
 - Linked Lists
-    * One-dimensional non-circular
-    * One-dimensional circular
-    * Two-dimensional non-circular
-    * Two-dimensional circular
+    * Singly Linked List (Unidirectional) non-circular
+    * Singly Linked List (Unidirectional) circular
+    * Doubly Linked List (Bi-directional) non-circular
+    * Doubly Linked List (Bi-directional) circular
 - Heaps
     * Min heap
     * Max heap
